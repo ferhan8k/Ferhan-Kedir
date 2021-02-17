@@ -1,0 +1,23 @@
+Thanks for checking out my website!
+____________________________________________________________________________________________________________________________________________________________________
+
+This website is designed by student Ferhan Kedir from section C cluster 2 of the 2012 Pre-Engineering batch. 
+
+Its topic is about Wikis and what they are with some sub-pages talking about a few types of wikis.
+
+It contains the following:
+	1, A main-page (index.html) with the topic os wikis and their usages
+	2, 6 sub-page (page1.html/page2.html/page3.html/page4.html/page5.html/page6.html) about some different types of wikis
+	3, 1 other sub-page (contect.html) about ways to contact the student
+	4, 1 css file (../css/style.css)
+	5, A folder for images (../images)
+	6, 1 svg file (.../svg/Vectors-03.svg)
+
+
+____________________________________________________________________________________________________________________________________________________________________
+Please contact me through my email: ferhangdraco1@gmail.com or the other ways mentioned in 'contact.html' for additional information.
+
+
+Thank You Again!
+
+____________________________________________________________________________________________________________________________________________________________________
